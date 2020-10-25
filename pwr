@@ -1,0 +1,2 @@
+$f2chk = "$([environment]::GetFolderPath("system"))"
+echo $f2chk
